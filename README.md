@@ -5,10 +5,9 @@ This repository is having all the codes regarding the AI/ML Skill India Scholars
 -----
 ### About the Repository?
 
-It's contains Python, Data Structure, Data Handling, File Handling, NoSQL, JSON to make Inventory Management System. I have added two different file formats in my IMS code file.
-
-1. IMS.py
-2. IMS.ipynb
+It's contains Python, Data analysis, CSV file to Analysis Summer Olympics.
+1. summer.csv
+2. summer.ipynb
 
 -----
 ### Who am I?
@@ -17,7 +16,7 @@ My name is Giritharan and I'm a undergraduated student at TCE. I'm currently wor
 
 -----
 
-### Other Useful Links:
+### Useful Links:
 
 [LinkedIn](https://www.linkedin.com/in/giritharan-m-2604/)
 
